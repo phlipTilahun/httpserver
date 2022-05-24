@@ -1,0 +1,22 @@
+{
+  "name": "httpserver",
+  "version": "1.0.0",
+  "description": "Simple node server built with http module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phlipTilahun/httpserver.git"
+  },
+  "author": "philipos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phlipTilahun/httpserver/issues"
+  },
+  "homepage": "https://github.com/phlipTilahun/httpserver#readme",
+  "dependencies": {
+    "dotenv": "~15.0.0"
+  }
+}
