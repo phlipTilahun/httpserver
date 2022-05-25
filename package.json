@@ -17,6 +17,5 @@
   },
   "homepage": "https://github.com/phlipTilahun/httpserver#readme",
   "dependencies": {
-    "dotenv": "~15.0.0"
   }
 }
